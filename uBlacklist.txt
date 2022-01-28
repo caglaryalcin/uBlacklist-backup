@@ -1,3 +1,5 @@
+/islamansiklopedisi\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/diyanet\.(com|org|com.tr|net|gov|gov.tr)/
 /microsoft\.(com|org|com.tr|net)/
 /haberoloji\.(com|org|com.tr|net)/
 /kartal24\.(com|org|com.tr|net)/
