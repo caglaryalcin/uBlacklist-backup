@@ -648,3 +648,9 @@
 /ereglidemokratmedya\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
 /egepostasi\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
 /inegolonline\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/diyadinnet\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/iomfrance\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/sg\.(k12.tr|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/randstad\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/radyozeugma\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/egirdirliler\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
