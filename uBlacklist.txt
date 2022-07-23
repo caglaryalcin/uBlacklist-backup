@@ -1,3 +1,5 @@
+/sikayetvar\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
+/haberdairesi\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
 /emlakkulisi\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
 /islamansiklopedisi\.(com|org|com.tr|net|gov|gov.tr|org|org.tr)/
 /diyanet\.(com|org|com.tr|net|gov|gov.tr)/
